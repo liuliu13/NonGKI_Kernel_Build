@@ -1,4 +1,43 @@
 ## 项目更新日志
+- **Ver.1.6 Fixed 7**
+    - 移植 OPPO K9 Pro SUSFS更新至v1.5.10
+
+- **Ver.1.6 Fixed 6**
+    - 增加 check_error.sh 判断错误类型
+
+- **Ver.1.6 Fixed 5**
+    - 迁移 Realme 6 LineageOS Plus YAML文件至常规版本
+    - 修正 华为 P10 EMUI 9.1 读取ENV错误
+
+- **Ver.1.6 Fixed 4**
+    - 增加 华为 P10 EMUI 9.1 设备
+    - 增加 荣耀 Honor EMIUI 9.1 设备
+    - 修正 Realme 6 LineageOS Plus ENV文件 Clang地址
+
+- **Ver.1.6 Fixed 3**
+    - 增加 Realme 6 LineageOS Plus 设备
+
+- **Ver.1.6 Fixed 2**
+    - 修正 部分YAML文件 缺少Bin目录问题
+
+- **Ver.1.6 Fixed 1**
+    - 合并 SuSFS上游最新commit
+    - 修正 说明文件 SuSFS参考链接
+
+- **Ver.1.6**
+    - 移动 check_error.sh 至 Bin/
+    - 移动 found_gcc.sh 至 Bin/
+    - 增加 示例YAML文件 上传error.log文件步骤
+    - 增加 示例YAML文件 打包并上传所有有效错误文件步骤
+    - 修正 说明文件 版本信息
+    - 修正 说明文件 部分sh文件介绍
+    - 修正 说明文件 获取内核步骤介绍
+    - 修正 发布Tag至 1.6-r1
+    - 修正 部分YAML文件 涉及上述sh文件的执行位置修正
+    - 删除 示例YAML文件 多余步骤
+
+---
+    
 - **Ver.1.5 Fixed 54**
     - 增加 Realme GT Neo 设备
 
